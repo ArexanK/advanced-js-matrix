@@ -27,7 +27,7 @@ function checkAge(age) {
 }
 console.log(checkAge(20));
 
-//arrow function
+
 
 const checkAge = (age) => (age >= 18 ? true : false);
 
